@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello From the Out Side");
             Console.WriteLine("Sung by adele");
+            Console.WriteLine("Wow nice song");
         }
     }
 }
