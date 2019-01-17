@@ -14,6 +14,8 @@ namespace ConsoleApp1
             Console.WriteLine("Sung by adele");//thanks adele
             Console.WriteLine("Wow nice song");//nice song
             //code from Feature's class
+
+            //code from Feature2
         }
     }
 }
