@@ -13,6 +13,9 @@ namespace ConsoleApp1
             Console.WriteLine("Hello From the Out Side");
             Console.WriteLine("Sung by adele");//thanks adele
             Console.WriteLine("Wow nice song");//nice song
+            //code from Feature's class
+
+            //code from Feature2
             //code from Feature1  class
             //code fromfeature3 class
         }
