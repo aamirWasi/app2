@@ -16,6 +16,8 @@ namespace ConsoleApp1
             //code from Feature's class
 
             //code from Feature2
+            //code from Feature1  class
+            //code fromfeature3 class
         }
     }
 }
