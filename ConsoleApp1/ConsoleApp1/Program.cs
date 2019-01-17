@@ -11,8 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello From the Out Side");
-            Console.WriteLine("Sung by adele");
-            Console.WriteLine("Wow nice song");
+            Console.WriteLine("Sung by adele");//thanks adele
+            Console.WriteLine("Wow nice song");//nice song
         }
     }
 }
